@@ -1,2 +1,1 @@
-# CBSCUSAT
-for class
+Welcome to *CBSCUSAT*
