@@ -1,2 +1,2 @@
-Welcome to *cbscusat*
+Welcome to # cbscusat
 # test work
